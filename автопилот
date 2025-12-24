@@ -1,5 +1,1 @@
 
-sc.active_vessel.control.activate_next_stage()
-
-conn.close()
-
